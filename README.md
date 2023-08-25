@@ -5,7 +5,7 @@
 
 - 🔭 I have done a small project [Banking_Application](https://github.com/BilaboinaPraveen/Banking_WebApplication)
 
-- 💬 Ask me about **A dedicated Full Stack Java Developer with expertise in building end-to-end web applications. Proficient in Java, Spring Boot, and modern front-end technologies. Committed to creating seamless user experiences through robust code and innovative design.**
+-  **A dedicated Full Stack Java Developer with expertise in building end-to-end web applications. Proficient in Java, Spring Boot, and modern front-end technologies. Committed to creating seamless user experiences through robust code and innovative design.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
